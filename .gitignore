@@ -1,0 +1,19 @@
+# Ignore Python venv
+env/
+env
+
+# Ignore Chroma DB
+Vector_Store/chroma_db/
+Vector_Store/.git/
+
+.env
+
+@"
+env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+"@ | Out-File -Encoding UTF8 .gitignore
