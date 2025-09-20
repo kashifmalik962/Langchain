@@ -1,0 +1,31 @@
+version: "3.9"
+
+services:
+  hired60:
+    build: .
+    image: kashifmalik2786/hired60_prod:v1.0.3
+    container_name: hired60_chatbot
+    ports:
+      - "3038:3038"  # Map FastAPI default port 3038 to host 3038
+    environment:
+      - .env
+    restart: unless-stopped
+    working_dir: /app
+    volumes:
+      - ./chroma_hired60_db:/app/chroma_hired60_db  # Persist Chroma DB outside container
+      - ./hired60_data:/app/hired60_data           # Persist static files if any
+    networks:
+      - hired60_network
+
+  chroma_db:
+    image: redis:7-alpine
+    container_name: chroma_redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    networks:
+      - hired60_network
+
+networks:
+  hired60_network:
+    driver: bridge

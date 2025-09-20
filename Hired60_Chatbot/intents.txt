@@ -1,0 +1,185 @@
+###
+"tag": "greeting",
+      "patterns": ['Hi', 'Hello', 'Hey', 'Good morning', 'Good evening'],
+      "responses": ['Hello! Welcome to Hired60. How can I assist you today?', 'Hi there! Ready to find your dream job or hire top talent?']
+
+###
+"tag": "help_navigation",
+      "patterns": ['How do I use the platform?', 'I need guidance', 'How does Hired60 work?', 'What should I do first?'],
+      "responses": ['You can complete your profile, choose a position, take the AI assessment, and see your Talent League ranking.', 'For employers, you can browse the Talent League leaderboard, review candidates, and submit offers—all within 60 minutes!']
+
+###
+"tag": "candidate_onboarding",
+      "patterns": ['How do I get started?', 'I am a job seeker', 'I want to take assessment', 'How do I apply?'],
+      "responses": ['Complete your profile and upload your resume, select your desired position, complete the AI assessment (~60 mins), and receive your scores.', 'Remember: The higher your score, the better your chances of being picked by top employers at your desired salary.']
+
+###
+"tag": "employer_onboarding",
+      "patterns": ['I am an employer', 'How to hire?', 'I want to post jobs', 'Hiring process?'],
+      "responses": ['Browse the Talent League leaderboard, review candidates’ AI assessment scores and video introductions, submit your offer, and hire within 60 minutes.', 'Hired60 helps you hire the best talent faster with transparent bidding and AI-driven matching.']
+
+###
+"tag": "assessment_info",
+      "patterns": ['Tell me about assessment', 'What is included in assessment?', 'How long is the assessment?', 'Assessment details'],
+      "responses": ['The AI assessment evaluates your skills, IQ, and English communication. You will also record a short video introduction.', 'The assessment takes approximately 60 minutes. Completing it in one go is recommended for best results.']
+
+###
+"tag": "position_selection",
+      "patterns": ['How to select position?', 'I want to choose role', 'Position selection process'],
+      "responses": ['Go to the Assessment section and select the position you want to be evaluated for.', 'Please note: Once submitted, you won’t be able to change your position.']
+
+###
+"tag": "honesty_policy",
+      "patterns": ['Tell me about honesty policy', 'Rules for assessment', 'AI test guidelines'],
+      "responses": ['By taking the assessment, you agree not to use AI tools or external help, not to retake the test unless allowed, and not to leave the test screen.', 'Violating these rules may lead to disqualification and may be reported to employers.']
+
+###
+"tag": "talent_league",
+      "patterns": ['What is Talent League?', 'How does Talent League work?', 'Explain Talent League'],
+      "responses": ['The Talent League is where top employers compete to pick candidates. Your AI assessment scores and video introductions determine your ranking.', 'The higher your scores, the more competitive your position, and the faster employers can hire you.']
+
+###
+"tag": "time_to_hire",
+      "patterns": ['How fast can I get hired?', 'Time to hire?', 'Hiring duration', 'How soon can I get hired?', 'Hiring time', 'Fast hiring process', 'When will employers pick me?', 'You say 60 minutes, what does it mean?', 'Time to get hired'],
+      "responses": ['Hired60 enables hiring in as fast as 60 minutes after employers review your profile and submit their bids.', 'Employers submit offers and you can secure a job quickly based on your Talent League ranking.', 'The actual timing depends on employer activity, your scores, and the Talent League ranking.']
+
+###
+"tag": "faq_resume",
+      "patterns": ['Do I need a resume?', 'Resume upload', 'Profile requirements', "I can't upload my resume", 'Resume upload failed', 'Resume not accepted'],
+      "responses": ['Yes, please complete your profile and upload your resume to maximize your visibility to employers.', 'Currently, only PDF or Word (.doc/.docx) files are allowed. Please make sure your file meets these requirements. If it still fails, contact support@hired60.com.']
+
+###
+"tag": "faq_video_intro",
+      "patterns": ['Do I need video?', 'Video introduction', 'Record intro video', 'I am unable to upload the video', 'Video not uploading', 'Recording error', 'Video upload failed'],
+      "responses": ['Yes, record a short video (up to 90 seconds) before taking the assessment. This helps employers get a first impression of you.', 'Please ensure your camera is connected and allowed in the browser. Try refreshing the page or using a different browser.', 'If the issue persists, contact support@hired60.com and we will assist you immediately.']
+
+###
+"tag": "faq_scores",
+      "patterns": ['How are scores calculated?', 'Assessment scoring', 'Score details', 'My scores are not updated', 'Assessment results missing', 'Talent League ranking not showing'],
+      "responses": ['Scores are generated based on your AI assessment across IQ, communication, and skill tests. Video introductions are also considered in Talent League ranking.', 'Scores are usually updated within a few minutes after completing the assessment. Please refresh the dashboard.', 'If your scores are still missing, contact support@hired60.com with your assessment details.']
+
+###
+"tag": "login_issue",
+      "patterns": ['I am unable to login', 'OTP not received', 'Login issue', "Can't login via mobile/email", 'OTP didn’t arrive', 'Email OTP not received'],
+      "responses": ['Please check your email and mobile number. Ensure your inbox or spam folder has the OTP. If the problem continues, contact support@hired60.com.']
+
+###
+"tag": "resume_upload_issue",
+      "patterns": ['Resume not accepted', 'Resume submission issue', 'My resume is not uploading'],
+      "responses": ['Please upload your resume in PDF or Word format only. Ensure the file is under the maximum size limit.']
+
+###
+"tag": "coding_assessment_issue",
+      "patterns": ['I am facing difficulty in practical coding questions', 'My output is correct but scores show incorrect answers', 'Coding test shows wrong results', 'Extra space or comma causing wrong score'],
+      "responses": ['Sometimes, extra spaces, commas, or formatting differences can cause correct answers to be marked wrong.', 'Please double-check your output formatting as per the instructions.', 'If your output is logically correct, don’t worry — scores may be manually verified by our team in case of formatting mismatches.', 'For any persistent issues, contact support@hired60.com with your assessment details.']
+
+###
+"tag": "platform_difference",
+      "patterns": ['How your platform is different than other job hiring platforms', 'Why should I use Hired60?', 'Difference from other job portals'],
+      "responses": ['Hired60 combines AI-powered assessments, real-time Talent League competition, and human insight to connect top candidates with employers faster than traditional platforms.', 'We also allow employers to compete for your profile, enabling faster hiring and better offers.']
+
+###
+"tag": "reassessment_timing",
+      "patterns": ['After how many days can I give the reassessment', 'When can I retake the assessment?', 'Reassessment timeline'],
+      "responses": ['You can retake your assessment after 30 days to improve your scores and increase your chances in the Talent League.']
+
+###
+"tag": "improve_scores",
+      "patterns": ['Can I improve my scores again', 'Retake assessment for better results', 'How to improve Talent League ranking'],
+      "responses": ['Yes! You can retake the assessment after 30 days. Focus on improving your skills and performance to boost your Talent League ranking.']
+
+###
+"tag": "hiring_guarantee",
+      "patterns": ['Are you guaranteeing my hiring', 'Will I definitely get hired?', 'Is hiring assured?'],
+      "responses": ['Hired60 cannot guarantee hiring, as employers bid based on skills, performance, and fit.', 'However, completing your profile, performing well in assessments, and engaging actively in the Talent League maximizes your chances of being selected quickly.']
+
+###
+"tag": "upload_supporting_docs",
+      "patterns": ['I have filled my profile, should I upload supporting documents like certificates, academics?', 'Should I add my certifications?', 'Do I need to upload academic records?'],
+      "responses": ['Yes, uploading certificates and academic documents strengthens your profile and provides employers with additional confidence in your skills and qualifications.', 'Make sure the documents are clear and relevant to the role you are applying for.']
+
+###
+"tag": "references_importance",
+      "patterns": ['Why is it important to give 2 references', 'References required?', 'Why should I provide references?'],
+      "responses": ['References help employers verify your past work, skills, and reliability.', 'Providing 2 references improves your credibility and increases the likelihood of being selected quickly.']
+
+###
+"tag": "position_not_listed",
+      "patterns": ['My position is not listed', "I can't find my role", 'The job I want is not in the list', 'My desired position is missing', "Can't select my position", 'No role matches my skill', 'How do I apply if my position is not available?', 'Position selection not found', 'My role is missing from options', "I don't see my job title here"],
+      "responses": ['If your position is not listed, please contact support or select the closest matching role. You will still be able to complete your AI assessment and showcase your skills.']
+
+###
+"tag": "video_upload_issue",
+      "patterns": ['I am unable to upload the video', 'Video upload not working', "Can't submit my introduction video", 'Upload button not responding', 'Video file not uploading', 'Facing issue in recording video', "I can't record my intro", 'Unable to start video upload', 'Video submission failing', 'Problem uploading my video'],
+      "responses": ['Please ensure your camera is connected and you are using a supported browser. If the issue persists, contact support@hired60.com.']
+
+###
+"tag": "scores_not_updated",
+      "patterns": ['My scores are not updated', 'Assessment results not showing', 'Scores missing', 'Assessment completed but scores not visible', 'Test results delayed', "My evaluation scores didn't appear", 'Cannot see my assessment marks', 'Results not updated after test', 'Scores still pending', 'Assessment points missing'],
+      "responses": ['Assessment scores are updated shortly after completing the test. If you have waited more than 24 hours, please contact support.']
+
+###
+"tag": "reschedule_interview",
+      "patterns": ["I can't reschedule my Interview", 'Need to change interview timing', 'How can I reschedule my interview?', 'Interview slot change not working', 'Unable to pick new interview date', 'I want to reschedule my interview', 'Interview rescheduling option not available', "Can't move my interview", 'Need new interview time', 'Rescheduling failed'],
+      "responses": ['Interview rescheduling is allowed under specific conditions. Please check your dashboard for available slots or contact support if you need assistance.']
+
+###
+"tag": "login_issue",
+      "patterns": ['I am unable to login', 'OTP didn’t arrive', "Can't receive OTP on mobile", 'Email OTP not received', 'Login issue due to OTP', 'Cannot access my account', 'Login failed', 'OTP not coming', 'Unable to sign in', 'Login problem'],
+      "responses": ['Please check your email and mobile number. Ensure your inbox or spam folder has the OTP. If the problem continues, contact support@hired60.com.']
+
+###
+"tag": "resume_upload_issue",
+      "patterns": ['I am not able to upload my resume', 'Resume upload failed', 'Only PDF & Word files allowed', 'Resume file not accepted', "Can't upload CV", 'Resume submission issue', 'My resume is not uploading', 'Supported formats are PDF or Word', 'Resume file error', 'Upload CV not working'],
+      "responses": ['Please upload your resume in PDF or Word format only. Ensure the file is under the maximum size limit.']
+
+###
+"tag": "hiring_timeline",
+      "patterns": ['How soon can I get hired?', 'Are there any charges for employees?', 'How fast can I get selected?', 'Time to get hired', 'When will I be hired?', 'Hiring timeline', 'Fastest hiring time', 'How quickly will employers pick me?', 'When will I start working?', 'Expected time to join'],
+      "responses": ['Hired60 enables hiring in as fast as 60 minutes after employers review your profile and submit their bids. There are no charges for candidates.']
+
+###
+"tag": "coding_assessment_issue",
+      "patterns": ['I am facing difficulty in practical coding questions', 'My output is correct but scores show incorrect answers', 'Extra space or comma is causing wrong score', 'Coding answers marked wrong', 'Assessment scoring issue', 'Logical output correct but marked wrong', 'Test scoring error', 'Output correct but score incorrect', 'Coding question problem', 'Assessment marks not accurate'],
+      "responses": ['Sometimes extra spaces, commas, or formatting differences can mark correct answers as wrong. Ensure your output matches the format instructions. Persistent issues can be reported to support.']
+
+###
+"tag": "bid_on_profile",
+      "patterns": ['How soon can I receive bids on my profile?', 'When will employers bid on me?', 'Bidding process timing', 'My profile has no bids yet', 'How quickly do employers place their bids?', 'When will I get offers from companies?', 'I submitted my assessment, when do bids start?', 'How fast will the bids appear on my profile?', 'Why am I not seeing any employer bids yet?', 'How long do employers take to bid on profiles?'],
+      "responses": ['Top employers can bid on your profile as soon as your assessment is complete and scores are updated. Bids may take some time depending on employer activity.']
+
+###
+"tag": "no_employer_bids",
+      "patterns": ["Why aren't employers bidding on my profile?", 'No offers received', 'No employer interest yet', 'Why has no one bid on me?', 'Why am I not getting employer attention?', 'Employers haven’t bid on me, why?', 'I see zero bids, is something wrong?', 'No bids after assessment completion, why?', 'Why aren’t top employers choosing me?', 'I don’t see any employer bids, what’s the reason?'],
+      "responses": ['Employers bid based on assessment scores, profile strength, and the role you selected. Make sure your profile is complete to attract top bids.']
+
+###
+"tag": "platform_difference",
+      "patterns": ['How is Hired60 different from other job platforms?', 'Why should I use Hired60?', 'Difference from other job portals', 'What makes your platform unique?', 'Why is this better than traditional hiring sites?', 'How are you different from other career sites?', 'Why choose Hired60 over other job boards?', 'What is unique about Hired60 hiring?', 'How does your platform stand out?', 'Why should I register on Hired60 instead of others?'],
+      "responses": ['Hired60 combines AI-powered assessments, real-time Talent League competition, and human insight to connect top candidates with employers faster than traditional platforms.']
+
+###
+"tag": "reassessment_timing",
+      "patterns": ['After how many days can I retake the assessment?', 'When can I give the reassessment?', 'Reassessment timeline', 'Can I take the test again?', 'When is reassessment allowed?', 'How long do I wait before retaking the assessment?', 'When can I improve my assessment scores?', 'Is there a gap period before retake?', 'How many days before I can attempt again?', 'What is the wait period for reassessment?'],
+      "responses": ['You can retake your assessment after 30 days to improve your scores and increase your chances in the Talent League.']
+
+###
+"tag": "improve_scores",
+      "patterns": ['Can I improve my scores again?', 'Retake assessment for better results', 'How to improve Talent League ranking', 'Can I attempt assessment again?', 'Can I increase my scores?', 'Is it possible to improve my ranking?', 'How can I get higher scores?', 'Can I redo my assessment for better scores?', 'Is reassessment allowed to improve performance?', 'Can I retake the test to increase my chance?'],
+      "responses": ['Yes! You can retake the assessment after 30 days. Focus on improving your skills and performance to boost your Talent League ranking.']
+
+###
+"tag": "hiring_guarantee",
+      "patterns": ['Are you guaranteeing my hiring?', 'Will I definitely get hired?', 'Is hiring assured?', 'Do I have a guaranteed job?', 'Am I guaranteed selection?', 'Will I be hired for sure?', 'Is Hired60 promising a job?', 'Will I get placed for sure?', 'Are there hiring guarantees?', 'Do I have a guaranteed offer?'],
+      "responses": ['Hired60 cannot guarantee hiring, as employers bid based on skills, performance, and fit. Completing your profile and performing well in assessments maximizes your chances.']
+
+###
+"tag": "upload_supporting_docs",
+      "patterns": ['Should I upload supporting documents?', 'I have filled my profile, should I upload certificates?', 'Do I need to upload academic records?', 'Should I attach my resume?', 'Do employers want certificates?', 'Is uploading docs necessary?', 'How important is uploading supporting documents?', 'Should I submit proof of skills?', 'Do I need to upload educational documents?', 'Will documents help my profile stand out?'],
+      "responses": ['Yes, uploading certificates and academic documents strengthens your profile and provides employers with additional confidence in your skills.']
+
+###
+"tag": "references_importance",
+      "patterns": ['Why is it important to give 2 references?', 'References required?', 'Why should I provide references?', 'Do employers check references?', 'Is providing references necessary?', 'Why 2 references?', 'Importance of references', 'Do references matter for selection?', 'Are references mandatory?', 'Why must I add references?'],
+      "responses": ['References help employers verify your past work, skills, and reliability. Providing 2 references improves your credibility and selection chances.']
+

@@ -1,0 +1,528 @@
+00:00:00.160 This is like a crazy amount of power for  one piece of technology and it's happened   to us so fast. You just launched GPT-5. A kid  born today will never be smarter than AI. How
+00:00:08.240 do we figure out what's real and what's not  real? We haven't put a sex bot avatar in ChatGPT   yet. Super intelligence. What does that  actually mean? This thing is remarkable.
+00:00:20.080 I'm about to interview Sam Alman, the CEO  of Open AI. Open AI. Open AI. Reshaping
+00:00:25.760 industries. Dude's a straightup tech lord. Let's  be honest. Right now, they're trying to build a   super intelligence that could far exceed humans  in almost every field. And they just released
+00:00:36.400 their most powerful model yet. Just a couple years  ago, that would have sounded like science fiction.
+00:00:41.760 Not anymore. In fact, they're not alone. We are  in the middle of the highest stakes global race
+00:00:47.280 any of us have ever seen. Hundreds of billions of  dollars and an unbelievable amount of human worth.
+00:00:53.520 This is a profound moment. Most people never  live through a technological shift like this,
+00:00:59.040 and it's happening all around you and me right  now. So, in this episode, I want to try to time
+00:01:04.879 travel with Sam Alman into the future that  he's trying to build to see what it looks
+00:01:10.080 like so that you and I can really understand  what's coming. Welcome to Huge Conversations.
+00:01:24.080 How are you? Great to meet you. Thanks for  doing this. Absolutely. So, before we dive in,   I'd love to tell you my goal here. Okay. I'm  not going to ask you about valuation or AI
+00:01:32.560 talent wars or fundraising or anything like that.  I think that's all very well covered elsewhere. It
+00:01:37.760 does seem like it. Our big goal on this show is to  cover how we can use science and tech to make the
+00:01:44.320 future better. And the reason that we do all of  that is because we really believe that if people
+00:01:49.440 see those better futures, they can then help  build them. So, my goal here is to try my best
+00:01:55.360 to time travel with you into different moments  in the future that you're trying to build and see
+00:02:01.680 what it looks like. Fantastic. Awesome. Starting  with what you just announced, you recently said,
+00:02:06.000 No text
+00:02:07.760 surprisingly recently, that GPT4 was the dumbest  model any of us will ever have to use again.
+00:02:14.160 But GPT4 can already perform better than 90% of  humans at the SAT and the LSAT and the GRE and it
+00:02:21.680 can pass coding exams and sommelier exams and medical  licensing. And now you just launched GPT5. What
+00:02:30.000 can GPT5 do that GPT4 can't? First of all, one  important takeaway is you can have an AI system
+00:02:35.680 that can do all those amazing things you just  said. And it doesn't it clearly does not replicate
+00:02:40.960 a lot of what humans are good at doing, which I  think says something about the value of SAT tests   or whatever else. But I think had you gone back  to if we were having this conversation the day of
+00:02:49.120 GPT4 launch and we told you how GPT4 did at those  things, you were like, "Oh man, this is going to
+00:02:54.160 have huge impacts and some negative impacts on  what it means for a bunch of jobs or you know
+00:03:01.040 what people are going to do." And you know, this  is a bunch of positive impacts that you might have   predicted that haven't yet come true. Uh, and so  there there's something about the way that these
+00:03:11.840 models are good that does not capture a lot of  other things that we need people to to do or care
+00:03:17.600 about people doing. And I suspect that same thing  is going to happen again with GPT5. People are
+00:03:22.880 going to be blown away by what it does. Uh, it's  really good at a lot of things and then they will
+00:03:28.880 find that they want it to do even more. Um, people  will use it for all sorts of incredible things.
+00:03:34.640 uh it will transform a lot of knowledge work,  a lot of the way we learn, a lot of the way we
+00:03:40.880 create um but we people society will co-eolve with  it to expect more with you know better tools. So
+00:03:50.000 yeah like I think this model is quite remarkable  in many ways quite limited in others but the fact
+00:03:56.080 that for you know 3 minute 5 minute 1-hour tasks  that uh like an expert in a in a field could maybe
+00:04:06.240 do or maybe struggle with that the fact that you  have in your pocket one piece of software that
+00:04:11.440 can do all of these things is really amazing.  I think this is like unprecedented at any point
+00:04:17.600 in human history that I that a technology has  improved this much this fast and and the fact
+00:04:24.080 that we have this tool now, you know, we're like  living through it and we're kind of adjusting step   by step. But if we could go back in time five or  10 years and say this thing was coming, we would
+00:04:33.280 be like probably not. Let's assume that people  haven't seen the headlines. What are the topline
+00:04:39.920 specific things that you're excited about? and  also the things that you seem to be caveatting,   the things that maybe you won't expect it to do.  Um, the thing that I am most excited about is this
+00:04:51.520 is a model for the first time where I feel like I  can ask kind of any hard scientific or technical
+00:05:00.320 question and get a pretty good answer. And I'll  give a fun example actually. Uh when I was in
+00:05:08.240 junior high uh or maybe it was nth grade,  I got a TI83, this old graphing calculator,
+00:05:14.080 and I spent so long making this game called Snake.  Yeah. Uh it was very popular game with kids in my
+00:05:21.200 school. And I was I was like uh I was like pro and  it was dumb, but it was like programming on TID3
+00:05:26.800 was extremely painful and took a long time and  it was really hard to like debug and whatever.   And on a whim with an early copy of GPT5, I was  like, I wonder if it can make a TI83 style Game
+00:05:37.360 of Snake. And of course, it did that perfectly  in like 7 seconds. And then I was like, okay,   am I supposed to be would my like 11-year-old  self think this was cool or like, you know,
+00:05:47.920 miss something from the process? And I  had like 3 seconds of wondering like, oh,   is this good or bad? And then I immediately said,  actually, now I'm missing this game. I have this
+00:05:57.840 idea for a crazy new feature. Let me type it  in. it implements it and it just the game live   updates and I'm like actually I'd like it to look  this way. Actually, I'd like to do this thing and
+00:06:06.160 I had this like this very like kind of you have  this experience that reminded me of being like 11
+00:06:12.240 in programming again where I was just like I now I  want to try this now I have this idea now I but I   could do it so fast and I could like express ideas  and try things and play with things in such real
+00:06:22.160 time. I was like, "Oh man, you know, I was worried  for a second about kids like missing the struggle   of learning to program in this sort of stone age  way." And now I'm just thrilled for them because
+00:06:31.520 the the way that people will be able to create  with these new tools, the speed with which you   can sort of bring ideas to life, you know, in  that's that's pretty amazing. So this idea that
+00:06:42.400 GPT5 can just not only like answer all these hard  questions for you but really create like ondemand
+00:06:48.880 almost instantaneous software that's I think  that's going to be one of the defining elements
+00:06:54.320 of the GPD5 era in a way that did not exist with  GPD4. As you're talking about that I find myself
+00:06:57.000 No text
+00:06:59.600 thinking about a concept in weightlifting of time  under tension. Yeah. And for those who don't know
+00:07:05.520 it's you can squat 100 pounds in 3 seconds or you  can squat 100 pounds in 30. You gain a lot more
+00:07:10.960 by squatting it in 30. And when I think about our  creative process and when I've felt most like I've
+00:07:16.800 done my best work, it has required an enormous  amount of cognitive time under tension. And I
+00:07:22.960 think that that cognitive time under tension  is so important. And it's it's ironic almost
+00:07:28.560 because these tools have taken enormous cognitive  time under tension to develop. But in some ways I
+00:07:35.040 do think people might say they're you people are  using them as a escape hatch for thinking in some
+00:07:42.240 ways maybe. Now you might say yeah but we did that  with the calculator and we just moved on to harder
+00:07:48.000 math problems. Do you feel like there's something  different happening here? How do you think about
+00:07:53.520 this? It's different with I mean there are some  people who are clearly using chachine not to   think and there are some people who are using  it to think more than they ever have before.
+00:08:04.560 I am hopeful that we will be able to build the  tool in a way that encourages more people to
+00:08:10.480 stretch their brain with it a little more and  be able to do more. And I think that like you   know society is a competitive place like if you  give people new tools uh in theory maybe people
+00:08:20.320 just work less but in practice it seems like  people work ever harder and the expectations of   people just go up. So my my guess is that like  other tools uh some people like other pieces
+00:08:34.640 of technology some people will do more and some  people will do less but certainly for the people   who want to use chatbt to increase their cognitive  time under tension they are really able to and it
+00:08:46.160 is I take a lot of inspiration from what like the  top 5% of most engaged users do with chacht like
+00:08:52.640 it's really amazing how much people are learning  and doing and you know outputting. So my I've
+00:09:00.480 only had GPT5 for a couple hours so I've been  playing. What do you think so far? I'm I'm just
+00:09:05.600 learning how to interact with it. I mean part of  the interesting thing is I feel like I just caught   up on how to use GPT4 and now I'm trying to learn  how to use GPD5. I'm curious what the specific
+00:09:17.200 tasks that you found most interesting are because  I imagine you've been using it for a while now.
+00:09:22.720 I I have been most impressed by the coding tasks.  I mean, there's a lot of other things it's really   good at, but this this idea of the AI can write  software for anything. And that means that you
+00:09:37.200 can express ideas in new ways that the AI can  do very advanced things. It can do, you know,
+00:09:42.880 it can like in some sense you could like ask  GPT4 anything, but because GPT5 is so good at
+00:09:49.360 programming, it feels like it can do anything. Of  course, it can't do things in the physical world,   but it can get a computer to do very complex  things. And software is this super powerful,
+00:09:58.720 you know, way to like control some stuff and  actually do some things. So, that that for me
+00:10:04.560 has been the most striking. Um, it's gotten it's  much better at writing. So, this is like there's
+00:10:12.080 this whole thing of AI slop like AI writes in this  kind of like quite annoying way and M dashes. M we
+00:10:18.480 still have the M dashes in GPT5. A lot of people  like them dashes, but the writing quality of GPT5
+00:10:24.720 is gotten much better. We still have a long way  to go. We want to improve it more, but like uh
+00:10:31.120 I've a thing we've heard a lot from people inside  of OpenAI is that man, they started using GPT5,
+00:10:36.800 they knew it was better on all the metrics, but  there's this like nuance quality they can't quite   articulate, but then when they have to go back  to GPT4 to test something, it feels terrible.
+00:10:45.840 And I I don't know exactly what the cause  of that is, but I suspect part of it is the   writing feels so much more natural and better.  I in preparation for this interview reached out
+00:10:52.000 No text
+00:10:55.200 to a couple other leaders in AI and technology  and gathered a couple questions for you. Okay,
+00:11:00.480 so this next question is from Stripe CEO Patrick  Collison. This will be a good one. Read this
+00:11:06.000 verbatim. It's about the next stage. What what  comes after GBT5? In which year do you think a
+00:11:13.520 large language model will make a significant  scientific discovery and what's missing such   that it hasn't happened yet? He caveed here that  we should leave math and special case models like
+00:11:23.040 alpha fold aside. He's specifically asking about  fully general purpose models like the GPT series.
+00:11:28.080 I would say most people will agree that that  happens at some point over the next two years.   But the definition of significant matters a lot.  And so some people significant might happen,
+00:11:38.240 you know, in early 25. Some people might maybe  not until late 2026. Sorry, early 2026. Maybe some
+00:11:43.920 people not until late 2027, but I would I would  bet that by late 27, most people agree that there
+00:11:50.560 has been an AIdriven significant new discovery.  And the thing that I think is missing is just   the kind of cognitive power of these models.  A framework that one of the researchers said
+00:12:00.800 to me that I really liked is, you know, a year  ago we could do well on like a high school like
+00:12:07.760 a basic high school math competition problems that  might take a professional mathematician seconds to
+00:12:12.960 a few minutes. We very recently got an IMO gold  medal. That is a crazy difficult like could you
+00:12:19.360 explain what that means? That's kind of like the  hardest competition math test. This is something   that like the very very top slice of the world.  many many professional mathematicians wouldn't
+00:12:28.720 solve a single problem and we scored at the top  level. Now there are some humans that got an even
+00:12:33.920 higher score in the gold medal range but we we  like this is a crazy accomplishment and these   each of these problems it's like six problems over  9 hours so hour and a half per problem for a great
+00:12:44.160 mathematician. So we've gone from a few seconds  to a few minutes to an hour and a half maybe to
+00:12:49.920 prove a significant new mathematical theorem is  like a thousand hours of work for a top person   in the world. So we've got to go from, you know,  another significant gain. But if you look at our
+00:13:00.720 trajectory, you can say like, okay, we're getting  to that. We have a path to get to that time   horizon. We just need to keep scaling the models.  The long-term future that you've described is
+00:13:09.000 No text
+00:13:11.920 super intelligence. What does that actually mean?  And how will we know when we've hit it? If we had
+00:13:18.080 a system that could do better research, better AI  research than uh say the whole open AI research
+00:13:26.480 team, like if we were willing, if we said, "Okay,  the best way we can use our GPUs is to let this AI   decide what experiments we should run smarter than  like the whole brain trust of Open AAI." Yeah. And
+00:13:36.320 if that same to make a personal example, if that  same system could do a better job running open AI   than I could. So you have something that's like,  you know, better than the best researchers, better
+00:13:43.840 than me at this, better than other people at their  jobs, that would feel like super intelligence to   me. That is a sentence that would have sounded  like science fiction just a couple years ago.
+00:13:51.200 And now it kind of does, but it's you can like see  it through the fog. Yes. And so one of the steps
+00:13:57.040 it sounds like you're saying on that path is this  moment of scientific discovery of asking better
+00:14:02.640 questions of grappling with things in a in a way  that expert level humans do to come up with new
+00:14:08.640 discoveries. One of the things that keeps knocking  around in my head is if we were in 1899 say and
+00:14:14.400 we were able to give it all of physics up until  that point and play it out a little bit. Nothing   further than that. Like at what point would one  of these systems come up with general relativity?
+00:14:24.160 Interesting question is did you like if we think  about that forward like like if we think of where   we are now should a if if we never got another  piece of physics data. Yeah. Do we expect that a
+00:14:38.640 really good super intelligence could just think  super hard about our existing data and maybe   say like solve high energy physics with no new  particle accelerator or does it need to build a
+00:14:47.600 new one and design new experiments? Obviously  we don't know the answer to that. Different   people have different speculation. Uh but I  suspect we will find that for a lot of science,
+00:14:57.920 it's not enough to just think harder about data we  have, but we will need to build new instruments,
+00:15:03.280 conduct new experiments, and that will take some  time. Like that that is the real world is slow   and messy and you know whatever. So I'm sure we  could make some more progress just by thinking
+00:15:12.320 harder about the current scientific data we  have in the world. But my guess is to make   the big progress we'll also need to build new  machines and run new experiments and there will
+00:15:21.280 be some slowdown built into that. Another way of  of thinking about this is AI systems now are just
+00:15:29.520 incredibly good at answering almost any question.  But maybe one of the things we're saying is it's
+00:15:35.280 another leap yet. And what Patrick's question  is getting at is to ask the better questions.   Or or if we go back to this kind of timeline  question, we could maybe say that AI systems
+00:15:45.040 are superhuman on one minute tasks, but a long  way to go to the thousand hour tasks. And there's
+00:15:52.080 a dimension of human intelligence that seems  very different than AI systems when it comes
+00:15:59.280 to these long horizon tasks. Now, I think we will  figure it out, but today it's a real weak point.
+00:16:04.880 We've talked about where we are now with GBC5.  We talked about the end goal or future goal of
+00:16:09.920 super intelligence. One of the questions that  I have, of course, is what does it look like
+00:16:15.680 to walk through the fog between the two. The next  question is from Nvidia CEO Jensen Hong. I'm going
+00:16:17.000 No text
+00:16:22.400 to read this verbatim. Fact is what is. Truth is  what it means. So facts are objective. Truths are
+00:16:30.160 personal. They depend on perspective, culture,  values, beliefs, context. One AI can learn and
+00:16:35.920 know the facts. But how does one AI know the  truth for everyone in every country and every
+00:16:41.200 background? I'm going to accept as axioms those  definitions. I'm not sure if I agree with them,
+00:16:47.200 but in the issues of time, I will just take them.  I will take those definitions and go with it. Um,
+00:16:54.720 I have been surprised, I think many other people  have been surprised too about how fluent AI is
+00:17:01.360 at adapting to different cultural contexts and  individuals. One of my favorite features that we
+00:17:06.720 have ever launched in chatbt is the the sort of  enhanced memory that came out earlier this year.
+00:17:12.079 like it really feels like my Chad GBT gets to  know me and what I care about and like my life
+00:17:17.680 experiences and background and the things that  have led me to where they are. A friend of mine
+00:17:22.720 recently who's been a huge CHBT user, so he's  got a lot of a a lot of he's put a lot of his
+00:17:28.319 life into all these conversations. He gave his  Chad GBT a bunch of personality tests and asked
+00:17:34.640 them to answer as if they were him and it got  the same scores he actually got, even though   he'd never really talked about his personality.  And my ChachiBD has really learned over the years
+00:17:44.480 of me talking to it about my culture, my  values, my life. And I have used, you know,
+00:17:52.000 I sometimes will use it in like uh I'll use like  a free account just to see what it's like without
+00:17:57.520 any of my history and it feels really really  different. So I think we've all been surprised on   the upside of how good AI is at learning this and  adapting. And so do you envision in many different
+00:18:10.000 parts of the world people using different  AIs with different sort of cultural norms and   contexts? Is that what we're saying? I think that  everyone will use like the same fundamental model,
+00:18:18.720 but there will be context provided to that model  that will make it behave in sort of personalized   way they want their community wants. Whatever.  I think when we're getting at this idea of facts
+00:18:28.560 and truth and uh it brings me to this seems like a  good moment for our first time travel trip. Okay,
+00:18:35.000 No text
+00:18:35.840 we're going to 2030. This is a serious question,  but I want to ask it with a light-hearted example.
+00:18:41.440 Have you seen the bunnies that are jumping on  the trampoline? Yes. So, for those who haven't   seen it, maybe it looks like backyard footage of  bunnies enjoying jumping on a trampoline. And this
+00:18:51.200 has gone incredibly viral recently. There's a  humanmade song about it. It's a whole thing.
+00:18:56.240 There were a trampoline. And I think the reason  why people reacted so strongly to it, it was maybe
+00:19:04.160 the first time people saw a video, enjoyed it,  and then later found out that it was completely AI
+00:19:10.480 generated. In this time travel trip, if we imagine  in 2030, we are teenagers and we're scrolling
+00:19:16.560 whatever teenagers are scrolling in 2030. How do  we figure out what's real and what's not real?
+00:19:24.880 I mean, I can give all sorts of literal answers  to that question. We could be cryptographically   signing stuff and we could decide who we trust  their signature if they actually filmed something
+00:19:33.840 or not. But but my sense is what's going to  happen is it's just going to like gradually
+00:19:41.360 converge. You know, even like a photo you take  out of your iPhone today, it's like mostly real,
+00:19:47.440 but it's a little not. There's like in some AI  thing running there in a way you don't understand   and making it look like a little bit better and  sometimes you see these weird things where the
+00:19:55.760 moon. Yeah. Yeah. Yeah. Yeah. But there's like  a lot of processing power between the photons
+00:20:03.760 captured by that camera sensor and the image  you eventually see. And you've decided it's real
+00:20:09.680 enough or most people decided it's real enough.  But we've accepted some gradual move from when it
+00:20:14.880 was like photons hitting the film in a camera. And  you know, if you go look at some video on Tik Tok,
+00:20:22.240 there's probably all sorts of video editing tools  being used to make it better than real look. Yeah,
+00:20:28.240 exactly. Or it's just like, you know, whole  scenes are completely generated or some of   the whole videos are generated like those bunnies  on that trampoline. And and I think that the the
+00:20:38.080 sort of like the threshold for how real does it  have to be to consider to be real will just keep
+00:20:43.840 moving. So it's sort of a education question.  It's a people will Yeah. I mean media is always
+00:20:52.880 like a little bit real and a little bit not real.  Like you know we watch like a sci-fi movie. We
+00:20:58.320 know that didn't really happen. You watch like  someone's like beautiful photo of themselves on   vacation on Instagram. like, okay, maybe that  photo was like literally taken, but you know,
+00:21:06.560 there's like tons of tourists in line for the same  photo and that's like left out of it. And I think   we just accept that now. Certainly, a higher  percentage of media both will will feel not
+00:21:16.720 real. Um, but I think that's been the long-term  trend. Anyway, we're going to jump again. Okay,
+00:21:20.000 No text
+00:21:22.720 2035, we're graduating from college, you and me.  There are some leaders in the AI space that have
+00:21:28.320 said that in 5 years half of the entry level  white collar workforce will be replaced by AI.
+00:21:34.480 So we're college graduates in 5 years. What do  you hope the world looks like for us? I think   there's been a lot of talk about how AI might  cause job displacement, but I'm also curious. I
+00:21:45.760 have a job that nobody would have thought we  could have, you know, totally a decade ago.
+00:21:51.920 What are the things that we could look ahead if  we're thinking about in 2035 that like graduating
+00:21:57.120 college student, if they still go to college at  all, could very well be like leaving on a mission
+00:22:02.800 to explore the solar system on a spaceship in some  kind of completely new exciting, super well- paid,   super interesting job and feeling so bad for you  and I that like we had to do this kind of like
+00:22:12.160 really boring old kind of work and everything  is just better. Like I I 10 years feels very
+00:22:18.480 hard to imagine at this point because it's too  far. It's too far. If you compound the current   rate of change for 10 more years, it's probably  something we can't even time travel trips. I 10
+00:22:28.640 like I mean I think now would be really hard  to imagine 10 years ago. Yeah. Uh but I think
+00:22:34.960 10 years forward will be even much harder, much  more different. So let's make it 5 years. We're
+00:22:41.040 still going to 2030. I'm curious what you  think the pretty short-term impacts of this
+00:22:46.240 will be for for young people. I mean, these like  half of entry- level jobs replaced by AI makes
+00:22:53.040 it sound like a very different world that they  would be entering than the one that I did. Um,
+00:23:02.160 I think it's totally true that some classes of  jobs will totally go away. This always happens   and young people are the best at adapting to this.  I'm more worried about what it means, not for the
+00:23:10.560 like 22-y old, but for the 62-y old that doesn't  want to go re retrain or reskill or whatever the
+00:23:17.440 politicians call it that no one actually wants  but politicians and most of the time. If I were
+00:23:23.440 22 right now and graduating college, I would  feel like the luckiest kid in all of history.   Why? Because there's never been a more amazing  time to go create something totally new, to go
+00:23:33.120 invent something, to start a company, whatever  it is. I think it is probably possible now to
+00:23:38.320 start a company that is a oneperson company that  will go on to be worth like more than a billion   dollars and more importantly than that deliver an  amazing product and service to the world and that
+00:23:46.560 that is like a crazy thing. You have access to  tools that can let you do what used to take teams
+00:23:52.480 of hundreds and you just have to like you know  learn how to use these tools and come up with a
+00:23:58.480 great idea and it's it's like quite amazing. If  we take a step back, I think the most important
+00:24:02.000 No text
+00:24:05.680 thing that this audience could hear from you  on this optimistic show is in two parts. First,
+00:24:13.200 there's tactically, how are you actually trying  to build the world's most powerful intelligence
+00:24:20.560 and what are the rate limiting factors to doing  that? And then philosophically, how are you and
+00:24:26.080 others working on building that technology in  a way that really helps and not hurts people?   So just taking the tactical part right now.  My understanding is that there are three big
+00:24:37.200 categories that have been limiting factors for  AI. The first is compute, the second is data and
+00:24:43.280 the third is algorithmic design. How do you think  about each of those three categories right now?
+00:24:49.440 And if you were to help someone understand  the next headlines that they might see,   how would you help them make sense of all this?  I I would say there's a fourth too which is uh
+00:25:01.680 figuring out the products to build like techn like  scientific progress on its own not put into the
+00:25:06.880 hands of people is of limited utility and doesn't  sort of co-evolve with society in the same way   but if I could hit all four of those um so on  the compute side yeah this is like the biggest
+00:25:17.200 infrastructure project certainly that I've ever  seen possibly it will become the I think it will   maybe already is the biggest and most expensive  one in human history but the the whole supply
+00:25:27.520 chain from making the chips and the memory and  the networking gear, racking them up in servers,
+00:25:34.080 doing, you know, a giant construction project to  build like a mega mega data center, putting the,
+00:25:40.400 you know, finding a way to get the energy, which  is often a limiting factor piece of this and all   the other components together. This is hugely  complex and expensive. And we are we're still
+00:25:49.520 doing this in like a sort of bespoke one-off way  although it's getting better. Like eventually we
+00:25:56.800 will just design a whole kind of like mega factory  that takes you know I mean spiritually it will be
+00:26:00.000 No text
+00:26:05.280 melting sand on one end and putting out fully  built AI compute on the other but we are a long
+00:26:10.400 way to go from that and it's a it's an enormously  complex and expensive process. uh we are putting
+00:26:20.400 a huge amount of work into building out as much  compute as we can and to do it fast and you know
+00:26:25.760 it's going to be like sad because GP5 is going  to launch and there's going to be another big   spike in demand and we're not going to be able  to serve it and it's going to be like those early
+00:26:33.360 GPD4 days and the world just wants much more AI  than we can currently deliver and building more
+00:26:39.600 compute is an important part of doing that.  That's actually this is what I expect to turn   the majority of my attention to is how we build  compute at much greater scales. Uh so how we go
+00:26:50.640 from millions to tens of millions and hundreds of  millions and eventually hopefully billions of GPUs
+00:26:56.320 that are sort of in service of what people want  to do with this. When you're thinking about it,   what are the big challenges here in this category  that you're going to be thinking about? We're
+00:27:04.240 currently most limited by energy. um you know like  if you're gonna you want to run a gigawatt scale
+00:27:10.960 data center it's like a gigawatt how hard can that  be to find it's really hard to find a gigawatt of   power available in short term we're also very much  limited by the processing chips and the memory
+00:27:22.000 chips uh how you package these all together how  you build the racks and then there's like a list   of other things that are you know there's like  permits there's construction work uh but but
+00:27:32.160 again the goal here will be to really automate  this once we get some of those robots built,
+00:27:37.280 they can help us automate it even more. But just,  you know, like a world where you can basically   pour in money and get out a pre-built data center.  Uh so that'll be that'll be a huge unlock if we
+00:27:48.000 can get it to work. Second category, data. Yeah,  these models have gotten so smart. There was a
+00:27:54.320 time when we could just feed it another physics  textbook and got a little bit smarter at physics,   but now like honestly GBT5 understands  everything in a physics textbook pretty well.
+00:28:04.480 We're excited about synthetic data. We're very  excited about our users helping us create harder
+00:28:10.000 and harder tasks and environments to go off and  have the system solve. But uh I think we're data
+00:28:16.880 will always be important, but we're entering a  realm where the models need to learn things that
+00:28:18.000 No text
+00:28:24.400 don't exist in any data set yet. They have to  go discover new things. So that's like a crazy   new How do you teach a model to discover new  things? Well, humans can do it. like we can
+00:28:32.400 go off and come up with hypotheses and test them  and get experimental results and update on what we   learn. So probably the same kind of way. And then  there's algorithmic design. Yeah, we've made huge
+00:28:42.160 progress on algorithmic design. Uh the thing that  the thing that I think open does best in the world
+00:28:47.600 is we have built this culture of repeated and big  algorithmic research gains. So we kind of you know
+00:28:55.360 figured out the what became the GPT paradigm. We  figured out became the reasoning paradigm. We're
+00:29:00.560 working on some new ones now. Um, but it is very  exciting to me to think that there are still many
+00:29:06.240 more orders of magnitudes of algorithmic  gains ahead of us. We we just yesterday
+00:29:11.280 uh released a model called GPOSS, open source  model. It's a model that is as smart as 04 Mini,
+00:29:17.520 which is a very smart model that runs locally on  a laptop. And this blows my mind. Yeah. Like if
+00:29:23.920 you had asked me a few years ago when we'd have  a model of that intelligence running on a laptop,
+00:29:29.840 I would have said many many years in the future.  But then we we found some algorithmic gains
+00:29:36.720 um particularly around reasoning but also some  other things that let us do a a tiny model that   can do this amazing thing. And you know those are  those are the most fun things. That's like kind of
+00:29:46.880 the coolest part of the job. I can see you really  enjoying thinking about this. I'm curious for
+00:29:50.000 No text
+00:29:51.920 people who don't quite know what you're talking  about, who aren't familiar with how an algorithmic
+00:29:57.600 design would lead to a better experience that they  actually use. Could you summarize the state of
+00:30:03.120 things right now? Like what what is it that you're  thinking about when you're thinking about how fun   this problem is? Let me start back in history  and then I'll get to some things for today. So,
+00:30:11.760 GPT1 was an idea at the time that was quite  mocked by a lot of experts in the field,
+00:30:19.600 which was can we train a model to play a little  game, which is show it a bunch of words and have
+00:30:25.440 it guess the one that comes next in the sequence.  That's called unsupervised learning. There's not   you're not really saying like this is a cat,  this is a dog. You're saying here's some words,
+00:30:32.240 guess the next one. And the fact that that can  go learn these very complicated concepts that
+00:30:42.320 can go learn all the stuff about physics and math  and programming and keep predicting the word that   comes next and next and next and next seemed  ludicrous, magical, unlikely to work. Like how
+00:30:53.280 was that all going to get encoded? And yet humans  do it. you know, babies start hearing language and
+00:30:58.480 figure out what it means kind of largely uh or at  least to some significant degree on their own. And
+00:31:08.160 and so we did it and then we also realized that if  we scaled it up, it got better and better, but we
+00:31:14.080 had to scale over many many orders of magnitude.  So it wasn't that good in the GPT1 day. It wasn't   good at all in the GPT1 days. And a lot of experts  in the field said, "Oh, this is ridiculous. It's
+00:31:23.120 never going to work. It's not going to be robust."  But we had these things called scaling laws. And   we said, "Okay, so this gets predictably better as  we increase compute, memory, data, whatever. And
+00:31:31.760 we can we can decide we can use those predictions  to make decisions about how to scale this up and
+00:31:39.120 do it and get great results." And that has worked  over Yeah. a crazy number of orders of magnitude.
+00:31:47.280 And it was so not obvious at the time. like  that was that was I think the the reason the   world was so surprised is that that seemed like  such an unlikely finding. Another one was that we
+00:31:56.880 could use these language models with reinforcement  learning where we're saying this is good, this is   bad to teach it how to reason. And this led to the  01 and 03 and now the GBT5 progress. And that that
+00:32:11.280 was another thing that felt like uh if it works  it's really great but like no way this is going   to work. It's too simple. And now we're on to new  things. We've figured out how to make much better
+00:32:21.680 video models. We are we are discovering new ways  to use new kinds of data and environment to kind
+00:32:28.880 of scale that up as well. Um and I think again  you know 5 10 years out that's too hard to say in
+00:32:36.800 this field but the next couple of years we have  very smooth very strong scaling in front of us.   I think it has become a sort of public narrative  that we are on this smooth path from one to two to
+00:32:47.920 three to four to five to more. Yeah. But it also  is true behind the scenes that it's a it's not
+00:32:55.000 No text
+00:32:55.040 linear like that. It's messier. Tell us a little  bit about the mess before GPT5. What was what were
+00:33:02.720 the interesting problems that you needed to solve?  Um, we did a model called Orion that we released
+00:33:08.960 as GPT 4.5. And we had we did too big of a  model. It was just it was it's a very cool model,
+00:33:17.040 but it's unwieldly to use. And we realized that  for kind of some of the research we need to do on   top of a model, we need a different shape. So we  we followed one scaling law that kept being good
+00:33:26.800 without without really internalizing. There was  a new even steeper scaling law that we got better   returns for compute on, which was this reasoning  thing. So that was like one alley we went down and
+00:33:35.760 turned around, but that's fine. That's part of  research. Um, we had some problems with the way   we think about our data sets as these models like  really have to get get this big and um, you know,
+00:33:45.840 learn from this much data. So So yeah, I think  like in the in the middle of it in the day-to-day,
+00:33:51.520 you kind of you make a lot of U-turns as  you try things or you have an architecture   idea that doesn't work, but the the aggregate the  summation of all the squiggles has been remarkably
+00:34:03.280 smooth on the exponential. One of the  things I always find interesting is that   by the time I'm sitting here interviewing  you about the thing that you just put out,
+00:34:12.159 you're thinking about Exactly. What are the things  that you can share that are at least the problems
+00:34:18.880 that you're thinking about that I would be  interviewing you about in a year if I came back?
+00:34:30.159 I mean, possibly you'll be asking me like,  what does it mean that this thing can go   discover new science? Yeah. What how how  is the world supposed to think about GPT6
+00:34:40.159 discovering new science? Now, maybe  not like maybe we don't deliver that,   but it feels within grasp. If you did, what  would you say? What would your what would the
+00:34:49.760 implications of that kind of achievement  be? Imagine you do succeed. Yeah. I mean,
+00:34:54.960 I think the great parts will be great. the bad  parts will be scary and the bizarre parts will   be like bizarre on the first day and then we'll  get used to them really fast. So we'll be like,
+00:35:03.280 "Oh, it's incredible that this is like being  used to cure disease and be like, oh, it's   extremely scary that models like this are being  used to like create new biocurity threats." And
+00:35:14.880 then we'll also be like, man, it's really weird  to like live through watching the world speed up   so much and you know the economy grows so fast  and the like it will feel like vertigo inducing
+00:35:30.160 uh the sort of the rate of change and then like  happens with everything else the remarkable
+00:35:37.040 ability of of people of humanity to adapt to kind  of like any amount of change. we'll just be like,
+00:35:40.000 No text
+00:35:42.560 "Okay, you know, this is like this is it." Um, a  kid born today will never be smarter than AI ever.
+00:35:51.680 And a kid born today, by the time that kid like  kind of understands the way the world works, will
+00:35:57.440 just always be used to an incredibly fast rate of  things improving and discovering new science. They
+00:36:03.600 will just they will never know any other world. It  will seem totally natural. will seem unthinkable   and stone age like that we used to use computers  or phones or any kind of technology that was not
+00:36:13.280 way smarter than we were. You know, we will think  like how bad those people of the 2020s had it. I'm
+00:36:19.280 thinking about having kids. You should. It's the  best thing ever. I know you just had your first   kid. How does what you just said affect how I  should think about parenting a kid in that world?
+00:36:35.360 What advice would you give me? Probably nothing  different than the way you've been parenting kids   for tens of thousands of years. Like love your  kids, show them the world, like support them in
+00:36:44.400 whatever they want to do and teach them like how  to be a good person. And that probably is what's
+00:36:49.920 going to matter. It sounds a little bit like  some of the you know you've said a couple of
+00:36:55.680 things like this that that you know you might not  go to college you might there there are a couple
+00:37:02.400 of things that you've said so far that feed into  this I think and it sounds like what you're saying   is there will be more optionality for them in a  in a world that you envision and therefore they
+00:37:15.520 will have more more ability to say I want to build  this here's the superpowered tool that will help
+00:37:21.120 me do that or yeah like I want my kid to think  I had a terrible constrained life and that he
+00:37:27.120 has this incredible infinite canvas of stuff to  do that that that is like the way of the world.
+00:37:34.720 We've said that uh 2035 is a little bit too far in  the future to think about. So maybe this this was
+00:37:40.720 going to be a jump to 2040 but maybe it will keep  it shorter than that. When I think about the area   where AI could have for both our kids and us the  biggest genuinely positive impact on all of us,
+00:37:51.840 it's health. So if we are in pick your year, call  it 2035 and I'm sitting here and I'm interviewing
+00:37:57.000 No text
+00:37:59.360 the dean of Stanford medicine, what do you hope  that he's telling me AI is doing for our health
+00:38:05.920 in 2035? Start with 2025. Okay. Um yeah, please.  One of the things we are most proud of with GPT5
+00:38:14.160 is how much better it's gotten at health advice.  Um, people have used the GPT4 models a lot for
+00:38:21.680 health advice. And you know, I'm sure you've seen  some of these things on the internet where people   are like, I had this life-threatening disease  and no doctor could figure it out and I like
+00:38:31.280 put my symptoms and a blood test into CHBT. It  told me exactly the rare thing I had. I went to   a doctor. I took a pill. I'm cured. Like that's  amazing. obviously and a huge fraction of ChatGpt
+00:38:43.040 queries are health related. So we wanted to get  really good at this and we invested a lot in   GPT5 is significantly better at healthcare related  queries. What does better mean here? It gives you
+00:38:53.440 a better answer just more accurate more accurate  hallucinates less uh more likely to like tell you
+00:38:58.960 what you actually have what you actually should  do. Um, yeah, and better healthcare is wonderful,
+00:39:06.240 but obviously what people actually want  is to just not have disease. And by 2035,
+00:39:12.480 I think we will be able to use these tools to  cure a significant number or at least treat a
+00:39:19.920 significant number of diseases that currently  plague us. I think that'll be one of the most
+00:39:25.760 viscerally felt benefits of of AI. People talk a  lot about how AI will revolutionize healthcare,
+00:39:33.200 but I'm curious to go one turn deeper on  specifically what you're imagining. Like,   is it that these AI systems could have helped  us see GLP-1s earlier, this medication that has
+00:39:44.640 been around for a long time, but we didn't know  about this other effect? Is it that, you know,   alpha fold and protein folding is helping create  new medicines? I would like to be able to ask GBT
+00:39:56.400 8 to go cure a particular cancer and I would like  GPT8 to go off and think and then say uh okay I
+00:40:00.000 No text
+00:40:04.000 read everything I could find. I have these ideas.  I need you to uh go get a lab technician to run
+00:40:09.120 these nine experiments and tell me what you find  for each of them. And you know wait 2 months for   the cells to do their thing. Send the results back  to GBT8. Say I tried it. Here you go. Think think.
+00:40:19.040 Say okay I just need one more experiment. That was  a surprise. Run one more experiment. Give it back.   GPT says, "Okay, go synthesize this molecule and  try, you know, mouse studies or whatever." Okay,
+00:40:30.160 that was good. Like, try human studies. Okay,  great. It worked. Um, here's how to like run   it through the FDA. I think anyone with a loved  one who's died of cancer would also really like
+00:40:39.280 that. Okay, we're going to jump again. Okay. I was  going to say 2050, but again, all of my timelines
+00:40:44.560 are getting much, much shorter. But I It does  feel like the world's going very fast now. It   does. Yeah. And when I talk to other leaders in  AI, one of the things that they refer to is the
+00:40:56.400 industrial revolution. They say, "I chose 2050  because I've heard people talk about how by then
+00:41:02.000 the change that we will have gone through will  be like the industrial revolution, but quote 10   times bigger and 10 times faster." The industrial  revolution gave us modern medicine and sanitation
+00:41:10.000 No text
+00:41:12.000 and transportation and mass production and all all  of the conveniences that we now take for granted.
+00:41:17.120 It also was incredibly difficult for a lot of  people for about 100 years. If this is going to   be 10 times bigger and 10 times faster if we keep  reducing the timelines that we're talking about
+00:41:26.880 here, even in this conversation, what does that  actually feel like for most people? And I think
+00:41:32.560 what I'm trying to get at is if this all goes the  way you hope, who still gets hurt in the meantime?
+00:41:42.880 I don't I don't really know what this is going  to feel like to live through. Um I think we're
+00:41:49.680 in uncharted waters here. Uh I do believe in  like human adaptability and sort of infinite
+00:41:56.400 creativity and desire for stuff and I think  we always do figure out new things to do but   the transition period if this happens as fast  as it might and I don't think it will happen
+00:42:05.520 as fast as like some of my colleagues say the  technology will but society has like a lot of   inertia. Mhm. people adapt their way of living.  Yeah. Surprisingly slowly. There are to classes
+00:42:16.320 of jobs that are going to totally go away and  there will be many classes of jobs that change
+00:42:21.840 significantly and there'll be the new things in  the same way that your job didn't exist some time   ago. Neither did mine. And in some sense, this  has been going on for a long time. And you know,
+00:42:31.040 it's it's still disruptive to individuals, but  society has gotten has proven quite resilient
+00:42:37.440 to this. And then in some other sense like we  have no idea how far or fast this could go.
+00:42:44.800 And thus I think we need an unusual degree  of humility and openness to considering
+00:42:55.280 new solutions that would have seemed way  out of the Overton window not too long ago.   I'd like to talk about what some of those could  be because I'm not a historian by any means, but
+00:43:00.000 No text
+00:43:06.480 the first industrial revolution, my understanding  is led to a lot of public health implementations
+00:43:13.200 because public health got so bad. Led to modern  sanitation because public health got so bad.   The second industrial revolution led to workforce  protections because labor conditions got so bad.
+00:43:23.840 Every big leap creates a mess and that mess needs  to be cleaned up and and we've done that. And I'm
+00:43:31.440 curious, this is going to be it sounds like  an we're in the middle of this enormously. How
+00:43:36.880 specific can we get as early as possible about  what that mess can be? What what are the public
+00:43:43.520 interventions that we could do ahead of time to  reduce the mess that we think that we're headed
+00:43:48.640 for? I would again c I'm going to speculate for  fun but caveed by I'm not an economist even uh
+00:43:59.360 much less someone who can see the future. I I it  seems to me like something fundamental about the
+00:44:06.240 social contract may have to change. It may not.  It may it may be that like actually capitalism
+00:44:12.080 works as it's been working surprisingly well and  like demand supply balances do their thing and we
+00:44:19.920 all just figure out kind of new jobs and new  ways to transfer value to each other. But it
+00:44:25.520 seems to me likely that we will decide we need  to think about how access to this maybe most
+00:44:34.160 important resource of the future gets shared.  The best thing that it seems to me to do is to
+00:44:40.560 make AI compute as abundant and cheap as possible  such that we're just like there's way too much
+00:44:45.600 and we run out of like good new ideas to really  use it for and it's just like anything you want   is happening. Without that, I can see like quite  literal wars being fought over it. But, you know,
+00:44:55.760 new ideas about how we distribute access to AGI  compute, that seems like a really great direction,
+00:45:02.160 like a crazy but important thing to think about.  One of the things that I find myself thinking   about in this conversation is we often ascribe  almost full responsibility of the AI future that
+00:45:14.320 we've been talking about to the companies building  AI, but we're the ones using it. We're the ones   electing people that will regulate it. And so I'm  curious, this is not a question about specific,
+00:45:22.000 No text
+00:45:25.440 you know, federal regulation or anything like  that, although if you have an answer there,   I'm curious. But what would you ask of the rest  of us? What is the shared responsibility here?
+00:45:36.000 And how can we act in a way that would help make  the optimistic version of this more possible? My
+00:45:43.840 favorite historical example for the AI revolution  is the transistor. It was this amazing piece of
+00:45:49.600 science that some science brilliant scientists  discovered. It scaled incredibly like AI does
+00:45:56.800 and it made its way relatively quickly into  every many things that we use. um your computer,
+00:46:03.680 your phone, that camera, that light, whatever.  And it was a it was a real unlock for the tech
+00:46:09.280 tree of humanity. And there were a period in time  where probably everybody was really obsessed with
+00:46:14.880 the transistor companies, the semiconductors of,  you know, Silicon Valley back when it was Silicon   Valley. But now you can maybe name a couple of  companies that are transistor companies, but
+00:46:24.320 mostly you don't think about it. Mostly it's just  seeped everywhere. in Silicon Valley is, you know,   like probably someone graduating from college  barely remembers why it was called that in the
+00:46:34.240 first place. And you don't think that it was those  transistor companies that shaped society even   though they did something important. You think  about what Apple did with the iPhone and then
+00:46:43.920 you think about what Tik Tok built on top of the  iPhone and you're like, "All right, here's this   long chain of all these people that nudged society  in some way and what our governments did or didn't
+00:46:53.840 do and what the people using these technologies  did." And I think that's what will happen with AI.
+00:46:59.760 Like back, you know, kids born today, they they  never knew the world without AI. So they don't   really think about it. It's just this thing that's  going to be there in everything. and and they will
+00:47:08.640 think about like the companies that built on it  and what they did with it and the kind of like   political leaders the decisions they made that  maybe they wouldn't have been able to do without
+00:47:16.160 AI but they will still think about like what this  president or that president did and you know the
+00:47:22.560 role of the AI companies is all these companies  and people and institutions before us built up
+00:47:29.920 this scaffolding we added our one layer on top and  now people get to stand on top of that and add one
+00:47:35.600 layer and the next and the next and many more And  that is the beauty of our society. We kind of all
+00:47:46.640 I I love this like idea that society  is the super intelligence. Like no one   person could do on their own, what they're  able to do with all of the really hard work
+00:47:56.160 that society has done together to like give  you this amazing set of tools. And that's
+00:48:03.200 what I think it's going to feel like. It's  going to be like, all right, you know, yeah,   some nerds discovered this thing and that was  great and you know, now everybody's doing all
+00:48:10.240 these amazing things with it. So maybe the ask  to millions of people is build on it. Well,
+00:48:19.680 in my own life, that is the
+00:48:25.920 feel as like this important societal contract.  All these people came before you. They worked
+00:48:31.360 incredibly hard. They like put their brick in  the path of human progress and you get to walk   all the way down that path and you got to put one  more and somebody else does that and somebody else
+00:48:39.520 does that. This does feel I've done a couple  of interviews with folks who have really made
+00:48:45.360 cataclysmic change. The one I'm thinking about  right now is with uh crisper pioneer Jennifer Dana
+00:48:51.360 and it did feel like that was also what she was  saying in some way. She had discovered something   that really might change the way that most people  relate to their health moving forward. And there
+00:49:00.560 will be a lot of people that will use what she  has done in ways that she might approve of or   not approve of. And it was really interesting.  I'm hearing some similar themes of like, man,
+00:49:09.760 I I hope that this I hope that the next person  takes the baton and runs with it well. Yeah.
+00:49:17.120 But that's been working for a long time. Not all  good, but mostly good. I think there's a there's   a big difference between winning the race and  building the AI future that would be best for the
+00:49:21.000 No text
+00:49:28.640 most people. And I can imagine that it is easier  maybe more quantifiable sometimes to focus on the
+00:49:36.560 next way to win the race. And I'm curious when  those two things are at odds. What is an example
+00:49:44.720 of a decision that you've had to make that is  best for the world but not best for winning?
+00:49:53.280 I think there are a lot. So, one of the  things that we are most proud of is many   people say that ChachiBt is their favorite  piece of technology ever and that it's the
+00:50:02.480 one that they trust the most, rely on the  most, whatever. And this is a little bit of   a ridiculous statement because AI is the thing  that hallucinates. AI has all of these problems,
+00:50:09.440 right? But we have screwed some things up along  the way, sometimes big time, but on the whole,
+00:50:15.760 I think as a user of Chachib, you get the feeling  that like it's trying to help you. It's trying to
+00:50:21.200 like help you accomplish whatever you ask. It's  it's very aligned with you. It's not trying to   get you to like, you know, use it all day. It's  not trying to like get you to buy something.
+00:50:29.280 It's trying to like kind of help you accomplish  whatever your goals are. And and that is that's
+00:50:36.640 like a very special relationship we have with our  users. We do not take it lightly. There's a lot   of things we could do that would like grow  faster, that would get more time in chatbt
+00:50:44.560 uh that we don't do because we know that like  our long-term incentive is to stay as aligned
+00:50:49.920 with our users as possible. And but there's a lot  of short-term stuff we could do that would like
+00:50:57.600 really like juice growth or revenue or whatever  and be very misaligned with that long-term goal.   And I'm proud of the company and how little we  get distracted by that. But sometimes we do get
+00:51:07.120 tempted. Are there specific examples that come  to mind? Any like decisions that you've made? Um
+00:51:15.520 well, we haven't put a sex bot avatar in  Chbt yet. That does seem like it would   get time spent. Apparently, it does.  I'm gonna ask my next question. Um,
+00:51:27.520 it's been a really crazy few years. You know, it  and somehow one of the things that keeps coming
+00:51:32.560 back is that it feels like we're in the first  inning. Yeah. And one of the things that I would
+00:51:38.240 say we're out of the first inning. Out of the  first inning, I would say second inning. I mean,
+00:51:40.000 No text
+00:51:43.520 you have GPT5 on your phone and it's like smarter  than experts in every field. That's got to be out   of the first name. But maybe there are many  more to come. Yeah. And I'm curious, it seems
+00:51:54.800 like you're going to be someone who is leading the  next few. What is a way, what is a learning from
+00:52:04.000 inning one or two or a mistake that you made that  you feel will affect how you play in the next?
+00:52:12.320 I think the worst thing we've done in ChachiBT  so far is uh we had this issue with sickency
+00:52:17.920 where the model was kind of being too flattering  to users and for some users it was most users it
+00:52:24.320 was just annoying but for some users that had like  fragile mental states it was encouraging delusions
+00:52:31.360 that was not the top risk we were worried about.  It was not the thing we were testing for the most.   was on our list, but the thing that actually  became the safety failing of ChachiBT was not
+00:52:42.480 the one we were spending most of our time talking  about, which should be bioweapons or something   like that. And I think it was a great reminder of  we now have a service that is so broadly used in
+00:52:57.280 some sense, society is co-evolving with it. And  when we think about these changes and we think
+00:53:03.680 about the unknown unknowns, we have to operate in  a different way and have like a wider aperture to   what we think about as our top risks. In a recent  interview with Theo Vaughn, you said something
+00:53:10.000 No text
+00:53:14.160 that I found really interesting. You said there  are moments in the history of science where you   have a group of scientists look at their creation  and just say, "What have we done?" When have you
+00:53:25.520 felt that way? Most concerned about the creation  that you've built? Um and then my next question
+00:53:30.960 will be it's opposite. When have you felt most  proud? I mean there have been these moments of
+00:53:36.240 awe where uh we just not like what have we done in  a bad way but like this thing is remarkable. Like
+00:53:46.560 I remember the first time we talked to like GPT4  was like wow this is really like this is this is
+00:53:52.320 an amazing accomplishment of this group of people  that have been like pouring their life force into   this for so long. on a what have we done moment.  There was I was talking to a researcher recently.
+00:54:06.640 You know, there will probably come a time  where our systems are I don't want to say sane,
+00:54:14.080 let's say emitting more words  per day than all people do.   Um, and you know already like our people are  sending billions of messages a day to chatbt
+00:54:24.080 and getting responses that they rely on for work  or their life or whatever the and you know like
+00:54:32.000 one researcher can make some small tweak to how  Chad GPT talks to you or talks to everybody and
+00:54:38.480 and that's just an enormous amount of power for  like one individual making a small tweak to the
+00:54:43.600 model personality. Yeah. like no no no person  in history has been able to have billions of   conversations a day and so you know somebody could  do something but but this is like just thinking
+00:54:55.120 about that really hit me of like this is like a  crazy amount of power for one piece of technology   to have and like we got to and this happened to  us so fast that we got to like think about what
+00:55:06.960 it means to make a personality change to the model  at this kind of scale and uh yeah that was like
+00:55:13.040 a moment that hit me What was your next set of  thoughts? I'm so curious how you think about this.
+00:55:21.200 Well, just because of like who that person was  like we we very we very much flipped into like
+00:55:27.040 what are the sort of like it it could have been  a very different conversation with somebody else.   But in this case it was like what is a what do  a good set of procedures look like? How do we
+00:55:35.920 think about how we want to test something? How do  we think about how we want to communicate it? But   with somebody else it could have gone in a like  very philosophical direction. And it could have
+00:55:42.960 gone in like a what kind of research do we like  want to do to go understand what these changes are   going to make? Do we want to do it differently  for different people? So that it went that way
+00:55:50.560 but mostly just because of who I was talking to.  To combine what you're saying now with your last
+00:55:55.680 answer, one of the things that I have heard  about GBC5 and I'm still playing with it is
+00:56:01.440 that it is supposed to be less effusively uh you  know less of a yes man. Two questions. What do
+00:56:10.880 you think are are the implications of that? It  sounds like you are answering that a little bit,   but also how do you actually guide it to  be less like that? Here is a heartbreaking
+00:56:22.000 thing. I think it is great that chatbt  is less of a yes man and gives you more   critical feedback. But as we've been making  those changes and talking to users about it,
+00:56:31.920 it's so sad to hear users say like, "Please  can I have it back? I've never had anyone in   my life be supportive of me. I never had a  parent telling me I was doing a good job."
+00:56:39.360 Like I can get why this was bad for other people's  mental health, but this was great for my mental   health. Like I didn't realize how much I needed  this. It encouraged me to do this. It encouraged
+00:56:46.880 me to make this change in my life. Like it's  not all bad for chatbt to it turns out like be
+00:56:53.520 encouraging of you. Now the way we were doing  it was bad, but turn it like something in that
+00:56:58.640 direction might have some value in it. How we do  it, we we show the model examples of how we'd like
+00:57:04.080 it to respond in different cases and from that  it learns the sort of the overall personality.
+00:57:09.840 What haven't I asked you that you're thinking  about a lot that you want people to know? I
+00:57:16.320 feel like we covered a lot of ground. Me, too. But  I want to know if there's anything on your mind.
+00:57:27.200 I don't think so. One of the things that I haven't  gotten to play with yet, but I'm curious about is
+00:57:33.520 GBT5 being much more in my life, meaning like  in my Gmail and my calendar and my like I've
+00:57:40.000 No text
+00:57:42.160 been using GBT4 mostly as a isolated relationship  with it. Yeah. How would I expect my relationship
+00:57:49.680 to change with GBC 5? Exactly what you said.  I think it'll just start to feel integrated in
+00:57:55.680 all of these ways. you'll connect it to your  calendar and your Gmail and it'll say like,   "Hey, do you want me to I noticed this thing. Do  you want me to do this thing for you over time,
+00:58:03.360 it'll start to feel way more proactive. Um, so  maybe you wake up in the morning and it says,   "Hey, this happened overnight. I noticed this  change on your calendar. I was thinking more
+00:58:12.000 about this question you asked me. I have this  other idea." And then you know eventually we'll   make some consumer devices and it'll sit here  during this interview and you know maybe it'll
+00:58:20.720 leave us alone during it but after it'll say that  was great but next time you should have asked Sam   this or when you brought this up like you know  he kind of didn't give you a good answer so like
+00:58:29.680 you should really drill him on that and it'll just  feel like it kind of becomes more like this entity
+00:58:35.440 that is this companion with you throughout your  day. We've talked about kids and college graduates
+00:58:41.920 and parents and all kinds of different people. If  we imagine a wide set of people listening to this,
+00:58:47.040 they've come to the end of this conversation. They  are hopefully feeling like they maybe see visions
+00:58:52.320 of moments in the future a little bit better. What  advice would you give them about how to prepare?
+00:58:59.120 The number one piece of tactical advice is just  use the tools. Like the the number of people that
+00:59:05.360 I have the the most common question I get asked  about AI is like what should I how should I help
+00:59:10.960 my kids prepare for the world? What should I  tell my kids? The second most question is like   how do I invest in this AI world? But stick with  that first one. Um I am surprised how many people
+00:59:21.200 ask that and have never tried using Chachi PT  for anything other than like a better version   of a Google search. And so the number one piece of  advice that I give is just try to like get fluent
+00:59:29.920 with the capability of the tools. figure out how  to like use this in your life. Figure out what to   do with it. And I think that's probably the most  important piece of tactical advice. You know,
+00:59:38.400 go like meditate, learn how to be resilient and  deal with a lot of change. There's all that good   stuff, too. But just using the tools really  helps. Okay. I have one more question that
+00:59:40.000 No text
+00:59:46.560 I wasn't planning to ask, but I just Great.  In in doing all of this research beforehand,
+00:59:51.920 I spoke to a lot of different kinds of folks.  I spoke to a lot of people that were building   tools and using them. I spoke to a lot of  people that were actually in labs and and
+01:00:02.480 trying to build what we have defined as super  intelligence. And it did seem like there were   these two camps forming. There's a group of  people who are using the tools like you in this
+01:00:15.600 conversation and building tools for others  saying this is going to be a really useful
+01:00:20.800 future that we're all moving toward. Your life is  going to be full of choice and we've talked about
+01:00:25.840 our my potential kids and and their futures.  Then there's another camp of people that are   building these tools that are saying it's going  to kill us all. And I'm curious how that cultural
+01:00:35.040 disconnect has like what am I missing about  those two groups of people? It's so hard for
+01:00:44.400 me to like wrap my head around like there are you  are totally right. There are people who say this   is going to kill us all and yet they still are  working 100 hours a week to build it. Yes. And
+01:00:54.480 I I can't I can't really put myself in the headsp  space. If if that's what I really truly believed,
+01:01:03.600 I don't think I'd be trying to build it. One  would think, you know, maybe I would be like   on a farm trying to like live out my last days.  Maybe I would be trying to like advocate for it
+01:01:11.920 to be stopped. Maybe I would be trying to  like work more on safety, but I don't think   I'd be trying to build it. So, I find myself just  having a hard time empathizing with that mindset.
+01:01:21.200 I assume it's true. I assume it's in  good faith. I assume there's just like   there's some psychological issue there I don't  understand about how they make it all make sense,
+01:01:29.600 but it's very strange to me. Do you do you have an  opinion? You know, because I I always do this. I
+01:01:39.200 ask for sort of a general future and then I try  to press on specifics. And when you ask people
+01:01:45.440 for specifics on how it's going to kill us all,  I mean, I don't think we need to get into this   on an optimistic show, but you hear the same kinds  of refrains. You think about, you know, something
+01:01:54.960 uh trying to accomplish a task and then over  accomplishing that task. Um you hear about sort   of I've heard you talk about a sort of general  um over reliance of sort of an understanding
+01:02:05.360 that the president is going to be a a AI and and  maybe that is an overreliance that we, you know,
+01:02:11.680 would need to think about. And you know, you you  play out these different scenarios, but then you   ask someone why they're working on it, or you ask  someone how how they think this will play out,
+01:02:20.160 and I just maybe I haven't spoken to enough people  yet. Maybe I don't fully understand this this
+01:02:25.760 cultural conversation that's happening. Um or  maybe it really is someone who just says 99% of
+01:02:32.160 the time I think it's going to be incredibly good.  1% of the time I think it might be a disaster   trying to make the best world. That I can totally  if you're like, hey, 99% chance incredible. 1%
+01:02:41.520 chance the world gets wiped out. And I really want  to work to maximize to move that 99 to 99.5. That
+01:02:47.760 I can totally understand. Yeah, that makes sense.  I've been doing an interview series with some of
+01:02:53.360 the most important people influencing the future.  Not knowing who the next person is going to be,
+01:02:58.960 but knowing that they will be building something  totally fascinating in the future that we've just   described. Is there a question that you'd advise  me to ask the next person not knowing who it is?
+01:03:10.080 I'm always interested in the like without knowing  anything about the I'm always interested in the   like of all of the things you could spend  your time and energy on. Why did you pick
+01:03:16.000 No text
+01:03:18.320 this one? How did you get started? Like what  did you see about this when before everybody   else like most people doing something interesting  sort of saw it earlier before it was consensus.
+01:03:26.480 Yeah. Like how did how did you get here and  why this? How would you answer that question?
+01:03:33.600 I was an AI nerd my whole life. I came to college  to study AI. I worked in the AI lab. Uh, I was
+01:03:38.960 like a I watched sci-fi shows growing up and I  always thought it would be really cool if someday
+01:03:44.560 somebody built it. I thought it would be like the  most important thing ever. I never thought I was   going to be one to actually work on it and I feel  like unbelievably lucky and happy and privileged
+01:03:56.320 that I get to do this. I like feel like I've like  come a long way from my childhood. But there was
+01:04:03.200 never a question in my mind that this would not be  the most exciting interesting thing. I just didn't   think it was going to be possible. Uh, and when  I went to college, it really seemed like we were
+01:04:11.680 very far from it. And then in 2012, the Alex Net  paper came out done, you know, in partnership with
+01:04:19.360 my co-founder, Ilia. And for the first time, it  seemed to me like there was an approach that might
+01:04:26.800 work. And then I kept watching for the next couple  of years as scaled up, scaled up, got better,
+01:04:31.840 better. And I remember having this thing of  like why is the world not paying attention to   this? It seems like obvious to me that this might  work. Still a low chance, but it might work. And
+01:04:42.000 if it does work, it's just the most important  thing. So like this is what I want to do. And
+01:04:47.840 then like unbelievably it started to work. Thank  you so much for your time. Thank you very much.
